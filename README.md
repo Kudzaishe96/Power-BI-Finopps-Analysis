@@ -20,7 +20,7 @@ This project seeks to deliver insights for FINOPPS by comparing PAYG Rates with 
 FINOPPS Data:A csv file provided by the organisation ,which contains the relevant data for analysis and comparison.
 
 ### Tools
-- Power BI : Data Extraction ,Data Cleaning, Data Modelling, Data Visualisation.
+- Power BI 
 
 
 ### Data Extraction and Cleaning
