@@ -50,7 +50,8 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 4. Conduct tests on the report.
 
    ### *Dashboard*
-   ![alt text](image-4.png)
+ <img width="1567" height="664" alt="image" src="https://github.com/user-attachments/assets/b29fd86b-3d6d-457e-b7c7-50490e1db2ba" />
+
 
 
     
