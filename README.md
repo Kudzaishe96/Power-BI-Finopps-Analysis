@@ -66,7 +66,7 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 
 ### Findings
 - The Finopps Core Production Subscription represents the highest liability to the organization when using the PAYG Rate.
-- Transitioning to CSP yields significant savings for the company(about 7% less than PAYG)
+- Transitioning to CSP yields significant savings for the company(about 3% less than PAYG)
 
 
 ### Recommendation
