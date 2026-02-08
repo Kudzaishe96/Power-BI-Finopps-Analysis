@@ -50,14 +50,16 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 4. Conduct tests on the report.
 
    ### *Dashboard*
- <img width="1587" height="678" alt="image" src="https://github.com/user-attachments/assets/8740a10c-1f0f-4825-b40c-1e094a9471d2" />
+<img width="1229" height="704" alt="image" src="https://github.com/user-attachments/assets/2b1a12e3-b41a-4e2b-a939-b09297d9806e" />
+
 
 
 
 
 
     
-
+### *Report Link*
+-link :https://app.powerbi.com/view?r=eyJrIjoiYzE4MWExZDItNWMzZi00MWQzLWE0NjEtYTczNWVmZGFjMDJmIiwidCI6Ijc1NTE5MmU4LTBiYTAtNDNkMS04NDBhLTBhYjliY2JiOWY4ZSJ9
 
 
 ### Explanatory Data Analysis
